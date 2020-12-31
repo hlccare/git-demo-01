@@ -15,6 +15,16 @@
 * item1
 * item2
 * item3
+
+链接
+
+网站是[网站url](www.baidu.com)
+
+
+图片
+
+![一张图片](1.jpg)
+
   
 下面是代码
 
